@@ -1,0 +1,40 @@
+export const data = {
+  products: [
+    {
+      id: "1",
+      name: "Pink Polo Shirt",
+      image: "/images/p1.jpg",
+      price: 120,
+      contact: "010-1234-5678",
+      trade: "yet",
+      description: "예시 상품입니다.",
+    },
+    {
+      id: "2",
+      name: "Marl Polo Shirt",
+      image: "/images/p2.jpg",
+      price: 250,
+      contact: "010-1234-5678",
+      trade: "done",
+      description: "예시 상품입니다.",
+    },
+    {
+      id: "3",
+      name: "Slim Fit Polo Shirt",
+      image: "/images/p3.jpg",
+      price: 25,
+      contact: "010-1234-5678",
+      trade: "yet",
+      description: "예시 상품입니다.",
+    },
+    {
+      id: "4",
+      name: "Orange Polo Shirt",
+      image: "/images/p4.jpg",
+      price: 65,
+      contact: "010-1234-5678",
+      trade: "yet",
+      description: "예시 상품입니다.",
+    },
+  ],
+}
